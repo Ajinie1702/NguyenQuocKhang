@@ -72,7 +72,3 @@ Focused on Customer Segmentation using RFM metrics and K-Mean Clustering algorit
 ## Leadership and Activities
 - UEL’S SPORTS CLUB, Ho Chi Minh City, Vietnam
   - Executive board member since Oct 2020 - Present
-
-[Insert descriptions for activities if applicable]
-
----
