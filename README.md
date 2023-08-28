@@ -1,74 +1,54 @@
-# NGUYEN QUOC KHANG
+<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<h1 align="center">Hi 👋, I'm Quoc Khang</h1>
+<p align="center">
+  <h3 align="center">Data Analyst</h3>
+</p>
 
-## Goal
-My aim is to thrive within a professional setting that provides a well-defined career trajectory, offering opportunities for skill enhancement and knowledge acquisition in the field of Data Analysis. In addition, I am eager to apply the acquired expertise to real-world projects, fostering both my personal growth and contributing substantial value to the organization.
 
-## Education
-**Bachelor of E-commerce**  
-University of Economics and Law, Ho Chi Minh, VN  
-*Expected Graduation*: July 2025  
-- GPA: 3.3/4.0 (8.23/10)
-- IELTS: 5.0 (2020)
+- ✍ I'm a Junior student at [UEL](https://www.uel.edu.vn/).
 
-## Competencies
-### Hard Skills
-- Programming: Python (Pandas, Numpy), Excel (VBA)
-- Visualization: Python (Matplotlib, Seaborn)
-- Microsoft Office: Excel (Data Processing, Data Management, Dashboard), Word (Report), PowerPoint (Presentation)
+<br />
 
-### Soft Skills
-- Problem-Solving
-- Communication Skills
-- Teamwork
-- Detail-Oriented
-- Time Management
+## 📫 How to reach me:
 
-## Experience Projects
-### Sales Analysis for Superstore GitHub
-A comprehensive project involving Sales module data analysis processes.
-- Created a dashboard about the store's overall YTD business situation and sales metrics.
-- Conducted Customer Segmentation Analysis based on RFM Metrics.
-- Performed Customer Cohort Analysis.
-- Worked on Forecasting and Returned Goods Prediction.
-- Tools Used: SSIS (ETL), SQL, Power BI & Tableau (Visualization), Python (Data Cleaning & Prediction).
+[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-### Customer Segmentation GitHub
-Focused on Customer Segmentation using RFM metrics and K-Mean Clustering algorithm.
-- Data Cleaning and Exploratory Data Analysis in Google Colab.
-- Calculated RFM Score for each Customer.
-- Preprocessed data: Transformation and Standardization.
-- Applied Customer Clustering using K-Mean algorithm and Analysis.
-- Tools Used: Python
+<p align="center">
+  <a href="https://www.linkedin.com/in/quockhang1702/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://www.facebook.com/ajinie1702/" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  </a> 
+  <a href="https://github.com/Ajinie1702" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="mailto:quockhang1702@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+</p>
 
-[View all my projects with detailed processes](link-to-your-projects)
+## Skills:
+<p align="center">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>
+  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+</p>
 
-## Achievements
-- Business Intelligence 7
-  - Team Leader in 2023
-  - Top 9 at Business Intelligence (University of Economics and Law)
-- Scientific Research
-  - Team Member in 2023
-  - School-level (University of Economics and Law)
-- Data Science
-  - Team Member in 2022
-  - Top 11 at Data Science (FTU University)
-- Visily Design Contest
-  - Team Member in 2022
-  - Top 1 at Visily Design Contest (Hoa Sen University & Visily Corporation)
-- Vietnam Youth Start-up Challenge - VYSC
-  - Team Member in 2023
-  - Top 4 at Visily Design Contest (Hoa Sen University & Visily Corporation)
+## Activities:
 
-## Certifications
-### Excel Course
-- Data Processing: UniTrain (Jun 2023)
-- Data Management: UniTrain (Jun 2023)
-- Dashboard: UniTrain (Jul 2023)
-- VBA: UniTrain (Aug 2023)
-
-### Business Intelligence Course
-- Python: UniTrain (Aug 2023)
-
-## Leadership and Activities
-- UEL’S SPORTS CLUB, Ho Chi Minh City, Vietnam
-  - Executive board member since Oct 2020 - Present
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinie1702&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ajinie1702&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
